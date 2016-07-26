@@ -1,9 +1,8 @@
 package demo_git;
 
-public class HelloWorld {
-<<<<<<< HEAD
-  System.out.print("123");
-=======
+public class HelloWorl
+
+	"thi is the head""
 	System."hello world");
 	test222
 	
